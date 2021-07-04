@@ -49,7 +49,7 @@ public class Admin_covid {
 	
 	private void OracleJavaTest() {
 		String dburl = "jdbc:oracle:thin:@218.248.0.7:1521:rdbms";
-		String us = "it19737036";
+		String us = "it197370305";
 		String pas = "vasavi";
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
